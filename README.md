@@ -16,3 +16,15 @@ The goal is to train these models on a dataset of news articles, extract feature
 
 ## Data
 We use a dataset of news articles labeled as either "fake" or "real." The dataset is split into training and testing sets to evaluate the performance of the models.
+
+## Installation
+To run this project, you need to have Python and the following libraries installed:
+
+- pip install nltk
+- pip install textblob
+- pip install numpy
+- pip install pandas 
+- pip install matplotlib 
+- pip install scikit-learn
+
+
